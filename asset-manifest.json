@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5fc43431.css",
+    "main.js": "/static/js/main.719fc5e1.js",
+    "static/js/787.6f758d81.chunk.js": "/static/js/787.6f758d81.chunk.js",
+    "static/media/AHS_Students.webp": "/static/media/AHS_Students.60bbfef1e71f950b15f9.webp",
+    "static/media/AHS-Heading.png": "/static/media/AHS-Heading.b672e48dbe41683af94c.png",
+    "static/media/AHS.webp": "/static/media/AHS.36e700cd1e37aaa44961.webp",
+    "static/media/School_Head.jpeg": "/static/media/School_Head.c63bb473a4edcd31e26a.jpeg",
+    "static/media/AHS_2011.webp": "/static/media/AHS_2011.e038e749c94dfd1e6caf.webp",
+    "static/media/screwdriver-wrench.svg": "/static/media/screwdriver-wrench.05b905247b73acb9830236bac0327717.svg",
+    "static/media/graduation-cap.svg": "/static/media/graduation-cap.d3fe6cea0ecfae3045324d92e7e8d2b3.svg",
+    "index.html": "/index.html",
+    "static/media/file-pdf.svg": "/static/media/file-pdf.5f5619281df27e93242ea54dd14436cc.svg",
+    "static/media/users.svg": "/static/media/users.4bb55572831d4dedcd469939401fe629.svg",
+    "static/media/user-group.svg": "/static/media/user-group.456670cef5a974af39b1ad600ac3ba3f.svg",
+    "static/media/address-card.svg": "/static/media/address-card.8067ef789806732ca3e2f26bf5bc74c0.svg",
+    "static/media/house.svg": "/static/media/house.f138d834e99ca53b5ea651387dc4f627.svg",
+    "static/media/user-lock.svg": "/static/media/user-lock.e394ace11789f6b6aa94ee55acfbbcfd.svg",
+    "static/media/Youtube.svg": "/static/media/Youtube.a6918f4f078dc36cc7215571e3656414.svg",
+    "static/media/user-plus.svg": "/static/media/user-plus.215fb4dbac7d53504060d0c2bed7179a.svg",
+    "static/media/phone.svg": "/static/media/phone.84c984a6171b9dd85c0003f0d7158e4d.svg",
+    "static/media/envelope.svg": "/static/media/envelope.4e092f690266dc096e0385c8b29efefa.svg",
+    "static/media/circle-exclamation.svg": "/static/media/circle-exclamation.b0fc5581b8b1387997e556d0d54218c8.svg",
+    "static/media/folder.svg": "/static/media/folder.aabae4289d0980d6be9b008222c50d04.svg",
+    "static/media/Facebook.svg": "/static/media/Facebook.51dc829a71a8818b650aa3ff70a96d7e.svg",
+    "main.5fc43431.css.map": "/static/css/main.5fc43431.css.map",
+    "main.719fc5e1.js.map": "/static/js/main.719fc5e1.js.map",
+    "787.6f758d81.chunk.js.map": "/static/js/787.6f758d81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fc43431.css",
+    "static/js/main.719fc5e1.js"
+  ]
+}
